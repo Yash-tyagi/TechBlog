@@ -6,4 +6,8 @@ The technology used for frontend is - HTML, css, Js, Bootstrap.
 
 The Technology used for backend is - JSP, Servlet, JDBC.
 
+server used is - apache tomcat
+
+ide used is - Netbeans
+
 There is a lot of scope of adding new features to the application.
